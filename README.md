@@ -1,0 +1,2 @@
+# Clustering-analysis-Customer-segmentation
+The goal of this Project was to perform clustering analysis , a form of unsupervised machine learning. At the end of this Project I was able segment each customers on the dataset to 4 different clusters with respect to there features , I made use of K_means and also PCA(For dimension reduction and better visualization of the resulting clusters). This project can be improved on by performing credit scoring ,In which points will be awarded to each customers based on if they meet certain conditions.
